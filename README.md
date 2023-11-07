@@ -1,0 +1,1 @@
+This is the first project of The Odin Project. In it I will create a basic html page containing links to different recipes.
